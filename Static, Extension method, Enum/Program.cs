@@ -16,9 +16,12 @@ namespace StatiExtensionEnum
 
             User user3 = new User("Amiqo", "Karimov", RegistrationMonth.July, "555FFFF");
             Console.WriteLine(user3.GetDetails());
-
-            User user4 = new User("Aynur", "Karimova", RegistrationMonth.February, "55555555555555");
+            User user4 = new User("Kenan", "Tapdiqli", RegistrationMonth.September, "555555G");
             Console.WriteLine(user4.GetDetails());
+
+            User user5 = new User("Aynur", "Karimova", RegistrationMonth.February, "55555555555555");
+            Console.WriteLine(user5.GetDetails());
+             
 
 
         }

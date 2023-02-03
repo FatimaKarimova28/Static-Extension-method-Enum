@@ -37,7 +37,7 @@ namespace StatiExtensionEnum
         {
             Name = name;
             Surname = surname;
-            RegistrationMonth RegistrationMonth = registrationMonth;
+            RegistrationMonth = registrationMonth;
            Pin = pin;
         }
 
